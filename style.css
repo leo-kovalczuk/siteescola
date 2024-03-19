@@ -6,12 +6,11 @@
 
 
 .cabecalho {
-     background-color: #383d38  ;
+     background-color:  #1c4a1c ;
      color: white;
      display: flex;
      justify-content: space-around;
-     padding: 24px 0;
-
+     padding: 24px 0; 
 }
 .cabecalho-image {
      width: 40%;
