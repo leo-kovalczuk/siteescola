@@ -59,7 +59,7 @@
    }
    .estudante-todos{
      display: grid;
-     grid-template-columns: 22% 30% 20%;
+     grid-template-columns: 21% 30% 20%;
      text-align: center;
    }
    .fundo{
