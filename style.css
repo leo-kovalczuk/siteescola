@@ -59,7 +59,7 @@
      display: grid;
      grid-template-columns: 20% 30% 20%;
    }
-   .footer{
+   .fundo{
      background-color:black;
      padding: 15px 0;
      text-align: center;
