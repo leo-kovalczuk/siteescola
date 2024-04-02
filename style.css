@@ -59,7 +59,7 @@
    }
    .estudante-todos{
      display: grid;
-     grid-template-columns: 20% 30% 10%;
+     grid-template-columns: 20% 30% 20%;
    }
    .fundo{
      background-color:black;
