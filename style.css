@@ -44,6 +44,10 @@
      font-family: 'Kaisei Tokumin', sans-serif ;
 }
 
+.estudante{
+     text-align: center;
+}
+
 .estudante-imagem{
      width: 370px;
    }
