@@ -26,7 +26,7 @@
      width: 30%;
 }
 .escola {
-     background-image: linear-gradient(#1c4a1c,#18fb03);
+     background-image: linear-gradient(#151c40,#1803fb);
      color: white;
      display: flex; 
      justify-content: center;
@@ -69,6 +69,6 @@
      text-align: center;
    }
    .fundo-um{
-     background-image: linear-gradient(#17ef04,#010501);
+     background-image: linear-gradient(#1803fb,#151c40);
    }
   
